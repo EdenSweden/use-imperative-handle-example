@@ -1,0 +1,14 @@
+.modal {
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.confirm-btn {
+    background-color: green;
+}
+
+.deny-btn {
+    background-color: red;
+}
